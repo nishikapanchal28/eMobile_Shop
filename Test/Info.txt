@@ -1,0 +1,11 @@
+Set Git Path:  C-->Users-->User-->AppData-->Local-->Github-->portable Git-->cmd
+
+Copy this path and 
+
+Git commands:
+
+git init : It is used to initialize the repository
+
+git status--It is used to check the statys of the files
+
+git add .
